@@ -1,0 +1,25 @@
+SNEHA IYER
+Senior Technical Support Engineer | SaaS Integrations
+Bengaluru, India
+ sneha.iyer.tech@gmail.com
+ +91 9876543210
+
+LinkedIn: linkedin.com/in/sneha-iyer
+
+PROFESSIONAL SUMMARY
+Technical Support Engineer with (2+ years) of experience supporting enterprise SaaS platforms, specializing in API integrations, production troubleshooting, and observability. 
+Proven ability to diagnose complex issues across REST and SOAP services, CRM integrations, and distributed systems. Strong at collaborating with engineering, product, and customer success teams to reduce downtime and improve reliability. 
+While hands-on exposure to GenAI or chatbot systems is limited, brings a solid foundation in backend systems, debugging, and monitoring—well-suited for supporting AI-enabled products in production environments.
+
+PROFESSIONAL EXPERIENCE:
+
+Technical Support Engineer
+XYZ SaaS Solutions | 2013 – Present
+Troubleshot high-priority production incidents involving REST/SOAP APIs and third-party integrations
+Supported enterprise customers with CRM and data synchronization issues
+Built monitoring dashboards and alerts to improve incident detection and response time
+Enhanced incident response playbooks, reducing mean time to resolution (MTTR)
+
+TECHNICAL SKILLS
+APIs & Integrations • Debugging & Root Cause Analysis • Dashboards & Alerts • Reporting & Incident Management • Basic GenAI Awareness
+

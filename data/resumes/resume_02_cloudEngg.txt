@@ -1,0 +1,28 @@
+ARJUN SINGH
+Cloud Engineer | Cloud Infrastructure | DevOps
+Bangalore, India | arjun.singh.cloud@gmail.com
+ | +91 90123 45678 | LinkedIn
+
+SUMMARY
+Cloud Engineer with 5 years of experience designing, deploying, and maintaining scalable cloud infrastructure for enterprise and product-based applications. Strong expertise in cloud platforms, infrastructure automation, containerization, and CI/CD pipelines. Proven ability to improve system reliability, security, and cost efficiency while supporting high-availability workloads in production environments.
+
+PROFESSIONAL EXPERIENCE
+Cloud Engineer | NexaCloud Technologies
+Bangalore, India | 2020 – Present
+Designed and managed cloud infrastructure on AWS supporting high-traffic applications with 99.9% uptime.
+Automated infrastructure provisioning using Terraform and CloudFormation.
+Built and maintained CI/CD pipelines for application and infrastructure deployments.
+Implemented monitoring, logging, and alerting using CloudWatch and Prometheus.
+Optimized cloud costs through right-sizing and usage analysis.
+Collaborated with development and security teams to enforce cloud best practices.
+
+TECHNICAL SKILLS
+Cloud: AWS (EC2, S3, RDS, VPC, IAM), basic Azure
+DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+IaC: Terraform, CloudFormation
+Monitoring: CloudWatch, Prometheus, Grafana
+OS & Scripting: Linux, Bash, Python
+
+EDUCATION
+B.Tech – Computer Science
+XYZ Institute of Technology

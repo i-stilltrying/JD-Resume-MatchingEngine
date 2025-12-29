@@ -1,0 +1,25 @@
+ARJUN SINGH
+Frontend Developer
+Bengaluru, India
+Email: arjun.singh.dev@gmail.com
+
+Phone: +91 9876543210
+
+PROFILE
+Frontend developer with 5 years of experience working on web applications. Mainly worked on React-based user interfaces. Focused on writing clean code and building simple, usable screens. No experience with AI, chatbots, or complex integrations.
+
+WORK EXPERIENCE
+
+Frontend Developer
+ABC Software Pvt. Ltd. | 2019 – Present
+Developed web pages using React and JavaScript
+Implemented designs using HTML and CSS
+Fixed UI issues and made small improvements
+Worked with backend developers to connect APIs
+
+SKILLS
+React, JavaScript, TypeScript, HTML, CSS
+
+EDUCATION
+B.E. / B.Tech in Computer Science
+XYZ College

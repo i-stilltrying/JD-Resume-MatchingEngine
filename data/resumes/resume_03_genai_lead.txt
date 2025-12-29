@@ -1,0 +1,26 @@
+ROHIT KAPOOR
+GenAI Architect | LLM Platforms | RAG & Agentic Systems
+Bangalore, India | rohit.kapoor.ai@gmail.com | 9876543210
+
+SUMMARY
+GenAI Architect with 9 years of experience designing, scaling, and governing enterprise-grade AI and LLM platforms. Deep expertise in architecting Retrieval-Augmented Generation (RAG), agentic workflows, and evaluation frameworks with a strong foundation in system design, model lifecycle management, and platform reliability. Proven track record of translating business requirements into secure, scalable GenAI architectures, mentoring engineering teams, and defining best practices for production deployment across regulated and high-scale environments.
+
+EXPERIENCE
+GenAI Architect | 2019 – Present
+Designed end-to-end GenAI architectures including hybrid RAG (sparse + dense retrieval, reranking), prompt orchestration, and agent frameworks for enterprise use cases.
+Defined system-level design patterns for LLM platforms covering latency, cost control, reliability, and data governance.
+Led architectural reviews and guided teams on model selection, embedding strategies, chunking, and evaluation methodologies.
+Established CI/CD pipelines and deployment standards for AI services on Kubernetes, ensuring scalable and fault-tolerant delivery.
+Drove adoption of offline and online evaluation frameworks to continuously improve response quality and reduce hallucinations.
+
+Senior AI Engineer | 2016 – 2019
+Built ML-driven backend services and early NLP pipelines powering search and recommendation workflows.
+Owned system design for data ingestion, feature stores, and model serving components.
+Collaborated with platform and security teams to enable production-ready AI deployments.
+
+ARCHITECTURE & TECHNICAL SKILLS
+GenAI Systems: RAG architectures, agentic workflows, prompt orchestration, evaluation frameworks
+LLM Stack: Python, LLM APIs, embeddings, rerankers, vector databases
+Platform & DevOps: Kubernetes, Docker, CI/CD, observability
+Data & Storage: Vector DBs, SQL/NoSQL, document pipelines
+Design: High-level system design, scalability, reliability, cost optimization

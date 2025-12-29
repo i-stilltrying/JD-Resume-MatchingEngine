@@ -1,0 +1,81 @@
+Role: AI Engineer – Agentic & Intelligent Systems
+Shape the Way the World Understands Data
+
+At Teradata, we’re not just managing data—we’re unleashing its full potential. Through ClearScape Analytics™ and our Enterprise Vector Store, we are building next-generation autonomous and agentic AI systems that observe, reason, adapt, and drive enterprise-scale decision-making.
+As part of the AI Engineering team, you will design and deploy production-grade AI agents tightly integrated with business workflows—turning data into measurable outcomes.
+
+What You’ll Do
+AI Systems & Agent Engineering
+Architect and build foundational components for production AI systems
+Design agent frameworks, LLM pipelines, observability, and evaluation layers
+Build systems that are measurable, debuggable, reliable, and accountable
+Work on multi-agent coordination, drift detection, and closed-loop retraining
+
+UI / UX for Intelligent Systems
+Design and prototype interfaces for interacting with autonomous agents
+Build explainable, accessible UI components that visualize:
+AI decisions
+Uncertainty
+Reasoning paths
+Develop native notebook experiences blending code, data, and visualization
+Conduct usability testing with humans-in-the-loop
+Champion UX best practices for safety, trust, and explainability
+
+Collaboration & Innovation
+Partner with AI researchers, engineers, and data scientists
+Experiment with LLM APIs, agentic workflows, and open-source frameworks
+Implement planning systems, vector databases, and memory architectures
+Ensure UI evolves alongside emerging AI capabilities
+
+Engineering Excellence
+Apply DevOps best practices with CI/CD pipelines
+Implement unit tests for UI components
+Ensure deterministic behavior where required
+Focus on reliability, performance, and observability
+
+Who You’ll Work With
+A high-caliber, diverse team of AI researchers, engineers, and data scientists
+Contributors to highly visible AI/ML capabilities within Teradata Vantage
+Reporting directly to the Sr. Manager, Software Engineering
+
+Required Qualifications
+3+ years of experinece in building ai applications.
+Bachelor’s or Master’s degree in Computer Science, Engineering, Data Science, or related field
+Strong engineering background (Python, Java, Go)
+Solid system design and distributed systems knowledge
+Experience with API integration and backend frameworks
+Strong focus on reliability, debuggability, and quality
+
+UI / UX & Frontend Skills
+Experience in UI/UX design and frontend engineering
+Proficiency in:
+Angular
+TypeScript
+Figma
+Design systems
+Strong understanding of Human-Computer Interaction (HCI)
+Experience building interfaces for complex or ML-powered workflows
+Notebook UI experience (Jupyter, VS Code Notebooks, or custom UIs) is a plus
+
+AI / ML & Agentic Systems
+Strong interest or experience with:
+LLMs
+Autonomous agents
+Agent orchestration tools (LangChain, AutoGen – bonus)
+Familiarity with vector databases, memory systems, and planning architectures
+Passion for building human-like, intelligent interfaces
+
+DevOps, MLOps & Infrastructure
+Experience with Docker and Kubernetes
+CI/CD pipeline implementation and maintenance
+Monitoring and scaling ML services (Prometheus, Grafana, KServe)
+Experience with ML workflow automation tools:
+Kubeflow
+MLflow
+Argo Workflows (plus)
+
+What Sets You Apart
+Ownership mindset: build → deploy → iterate → scale
+Passion for AI/ML and agent-driven systems
+Obsession with quality, trust, and production readiness
+Ability to bridge AI + UX + Engineering seamlessly

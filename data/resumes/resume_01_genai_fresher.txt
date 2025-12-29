@@ -1,0 +1,26 @@
+ROHAN MALIK
+AI Application Engineer | GenAI | Production Support & Workflow Optimization
+Bangalore, India | [EMAIL]
+rohan.malik.ai@gmail.com
++91 90876 54321 | LinkedIn | GitHub
+
+SUMMARY
+AI/GenAI Engineer with 1 years of experience supporting production-grade LLM and workflow automation systems for enterprise clients. Strong focus on post-deployment reliability, including troubleshooting API and data issues, optimizing prompts and retrieval quality, and improving end-user workflow performance through observability and evaluation. Experienced in delivering secure, customer-facing AI solutions on Kubernetes/OpenShift environments with 99.9% uptime.
+
+EXPERIENCE
+TechNova AI Solutions — AI Engineer
+Bangalore, India | Aug 2024 – Present
+Operated and supported GenAI workflow platforms across healthcare, telecom, and public-sector clients, serving 100K+ users with 99.9% uptime.
+Integrated AI/GenAI services with enterprise data sources and platform APIs; deployed scalable microservices for production usage.
+Diagnosed and resolved production issues involving API failures, data inconsistencies, and configuration regressions; implemented safeguards to reduce repeat incidents.
+Optimized prompts, retrieval strategies, and automation flows to improve response quality and reduce failure modes.
+Built monitoring dashboards and alerts using Prometheus and Grafana to track latency, errors, throughput, and quality signals.
+Executed 5,000+ evaluation tests and supported governance guardrails (PII/DLP), improving overall system reliability by ~20%.
+
+
+TECHNICAL SKILLS
+APIs & Integration: REST/JSON, service authentication, workflow integrations
+GenAI Systems: Prompt engineering, hybrid RAG (BM25 + dense vectors + reranking), agentic workflows, evaluation
+Observability: Prometheus, Grafana, logging, alerting, SLO monitoring
+Platforms: Docker, Kubernetes, OpenShift, CI/CD
+Data: Elasticsearch, Milvus, PostgreSQL, Redis, SQL

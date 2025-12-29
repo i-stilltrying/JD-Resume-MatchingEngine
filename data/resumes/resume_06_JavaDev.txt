@@ -1,0 +1,23 @@
+RAHUL MEHTA
+Java Developer
++91 91234 56789
+rahul.mehta.dev@gmail.com
+
+Pune, India
+
+PROFESSIONAL SUMMARY
+Java Developer with 2 years of hands-on experience in designing, developing, and maintaining backend applications using Java and related technologies. Strong understanding of object-oriented programming, data structures, and backend development principles. Experienced in building RESTful services, integrating databases, and collaborating with cross-functional teams to deliver scalable software solutions. Adept at writing clean, maintainable code and following best practices in Agile development environments.
+
+TECHNICAL SKILLS
+Java, OOPs, Collections
+Spring Boot, REST APIs
+SQL, MySQL
+Git, Maven
+Basic AWS & Linux
+
+PROFESSIONAL EXPERIENCE
+Java Developer | ABC Technologies (2023–Present)
+Developed and enhanced backend modules using Java and Spring Boot
+Built REST APIs and integrated with relational databases
+Fixed bugs and improved application performance
+Participated in code reviews and Agile ceremonies
