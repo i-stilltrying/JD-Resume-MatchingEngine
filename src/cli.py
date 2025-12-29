@@ -1,3 +1,4 @@
+  # Main entrypoint: load → extract → redact → score → save CSV
 from __future__ import annotations
 
 import argparse
